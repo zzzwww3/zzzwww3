@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-GREEN.svg?&style=for-the-badge&logo=ANDROID&logoColor=WHITE"/>
-<img alt="UNITY" src ="https://img.shields.io/badge/UNITY-GREEN.svg?&style=for-the-badge&logo=UNITY&logoColor=WHITE"/>
-<img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-GREEN.svg?&style=for-the-badge&logo=PYTHON&logoColor=WHITE"/>
-<img alt="HTML" src ="https://img.shields.io/badge/HTML-GREEN.svg?&style=for-the-badge&logo=HTML&logoColor=WHITE"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-GREEN.svg?&style=for-the-badge&logo=CSS3&logoColor=WHITE"/>
-<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-GREEN.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=WHITE"/>
-<img alt="C" src ="https://img.shields.io/badge/C-GREEN.svg?&style=for-the-badge&logo=C&logoColor=WHITE"/>
-<img alt="C++" src ="https://img.shields.io/badge/C++-GREEN.svg?&style=for-the-badge&logo=C++&logoColor=WHITE"/>
+<img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java"/>
+<img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-white.svg?&style=for-the-badge&logo=Android Studio"/>
+<img alt="UNITY" src ="https://img.shields.io/badge/UNITY-auto.svg?&style=for-the-badge&logo=UNITY"/>
+<img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-auto.svg?&style=for-the-badge&logo=PYTHON"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-auto.svg?&style=for-the-badge&logo=HTML5"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-auto.svg?&style=for-the-badge&logo=CSS3"/>
+<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-auto.svg?&style=for-the-badge&logo=JAVASCRIPT"/>
+<img alt="C" src ="https://img.shields.io/badge/C-auto.svg?&style=for-the-badge&logo=C"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-auto.svg?&style=for-the-badge&logo=C++"/>
+
 
 <img alt="#" src ="https://img.shields.io/badge/#-#.svg?&style=for-the-badge&logo=#&logoColor=#"/>
 
