@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
-<img alt="UNITY" src ="https://img.shields.io/badge/UNITY-white.svg?&style=for-the-badge&logo=UNITY&logoColor=white"/>
+<img alt="UNITY" src ="https://img.shields.io/badge/UNITY-white.svg?&style=for-the-badge&logo=UNITY&logoColor=black"/>
 <img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
