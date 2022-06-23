@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 https://muwee.co.kr/
 
-<a href="http://notegg.co.kr/" ><img src="https://www.notegg.co.kr/images/noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/></a>
+<a href="http://notegg.co.kr/" ><img src="http://www.notegg.co.kr/images/noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/></a>
 <a href="https://www.noteggparan.co.kr/" ><img src="https://www.noteggparan.co.kr/img/favicon.ico" width="50px" height="50px" title="noteggparan_Logo"/></a>
 <img src="./muwee.png" width="50px" height="50px" title="muwee_Logo"/>
 
