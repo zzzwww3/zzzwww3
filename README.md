@@ -41,32 +41,32 @@ Here are some ideas to get you started:
 
 # 안드로이드 개발
 
-<span><a href="https://play.google.com/store/apps/details?id=com.notegg.gongbak0100" ><img src="https://play-lh.googleusercontent.com/qrB936vn-UN5BmnZNebiQAswHVvIeyvtAu8RCcYpeh2-rqRrJN4D9RGK8Y0aT628Mys=w240-h480-rw" width="50px" height="50px" title=""/> <h1>0100 - 인스타그램 줄바꿈은 공백</h1></a></span>
+<span><a href="https://play.google.com/store/apps/details?id=com.notegg.gongbak0100" ><img src="https://play-lh.googleusercontent.com/qrB936vn-UN5BmnZNebiQAswHVvIeyvtAu8RCcYpeh2-rqRrJN4D9RGK8Y0aT628Mys=w240-h480-rw" width="50px" height="50px" title=""/> 0100 - 인스타그램 줄바꿈은 공백</a></span>
 
     [0100]은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
     
 
 
-<a href="https://play.google.com/store/apps/details?id=com.notegg.meong" ><img src="https://play-lh.googleusercontent.com/4xN0kFoHG_q9-NwauHvKBOI_84nycmJtsgUVp_MAaQxxA_1qTfXOvHu-1nPI1sPrQG_j=w240-h480-rw" width="50px" height="50px" title=""/> <h1>MUWEE - 컬처 아카이빙</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.notegg.meong" ><img src="https://play-lh.googleusercontent.com/4xN0kFoHG_q9-NwauHvKBOI_84nycmJtsgUVp_MAaQxxA_1qTfXOvHu-1nPI1sPrQG_j=w240-h480-rw" width="50px" height="50px" title=""/> MUWEE - 컬처 아카이빙</a>
 
     MUWEE 무위는 취향 좋은 라이프스타일을 만나볼 수 있는 영상기반의 스트리밍 플랫폼입니다.
     
 
-<a href="https://play.google.com/store/apps/details?id=com.notegg.calla" ><img src="https://play-lh.googleusercontent.com/a0L5TYEZTea1t8DNwi1PJmw7NHsITzxANOQuAef2zxOIGpixAFCjgW9Ve9Xu8eJVLH0=w240-h480-rw" width="50px" height="50px" title=""/> <h1>CALLA - 칼라, 색을 담다 필름카메라</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.notegg.calla" ><img src="https://play-lh.googleusercontent.com/a0L5TYEZTea1t8DNwi1PJmw7NHsITzxANOQuAef2zxOIGpixAFCjgW9Ve9Xu8eJVLH0=w240-h480-rw" width="50px" height="50px" title=""/> CALLA - 칼라, 색을 담다 필름카메라</a>
 
     [CALLA]는 필름 교체 형식의 랜덤 필름카메라입니다.
 
 
-<a href="https://play.google.com/store/apps/details?id=com.notegg.plot" ><img src="https://play-lh.googleusercontent.com/zAWkW7q5JnkjqaBt9zPf1_sFZY_qIUP3baMKGIhIpckssJBVpynIn47YTuFDcZOccxA=w240-h480-rw" width="50px" height="50px" title=""/> <h1>PLOT - 플롯, 나의 이야기</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.notegg.plot" ><img src="https://play-lh.googleusercontent.com/zAWkW7q5JnkjqaBt9zPf1_sFZY_qIUP3baMKGIhIpckssJBVpynIn47YTuFDcZOccxA=w240-h480-rw" width="50px" height="50px" title=""/> PLOT - 플롯, 나의 이야기</a>
 
     [PLOT]은 폴라로이드 특유의 감성이 담긴 카메라 어플 입니다.
 
 
-<a href="https://play.google.com/store/apps/details?id=com.notegg.dazzl" ><img src="https://play-lh.googleusercontent.com/eKR2rSPDb8nHAFpkdcLLm85M-3dMOokEAxszqIUHgbpihSfySxYgG80bnGU99Zc2Mw=w240-h480-rw" width="50px" height="50px" title=""/> <h1>DAZZL - 눈부신 순간들</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.notegg.dazzl" ><img src="https://play-lh.googleusercontent.com/eKR2rSPDb8nHAFpkdcLLm85M-3dMOokEAxszqIUHgbpihSfySxYgG80bnGU99Zc2Mw=w240-h480-rw" width="50px" height="50px" title=""/> DAZZL - 눈부신 순간들</a>
 
     [DAZZL]은 플래시를 사용하는 랜덤 필터 카메라입니다.
 
-<a href="https://play.google.com/store/apps/details?id=com.notegg.xface" ><img src="https://play-lh.googleusercontent.com/cQdClOXwZtRRHPMyFISxPG_9adSwxo0tC0GQ8m58tKlAgbUq1_HEsziV7_V12I5ZAD0=w240-h480-rw" width="50px" height="50px" title=""/> <h1>X-FACE - 사진 보정 탐지기</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.notegg.xface" ><img src="https://play-lh.googleusercontent.com/cQdClOXwZtRRHPMyFISxPG_9adSwxo0tC0GQ8m58tKlAgbUq1_HEsziV7_V12I5ZAD0=w240-h480-rw" width="50px" height="50px" title=""/> X-FACE - 사진 보정 탐지기</a>
 
-    [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다. 
+    [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다.
      
