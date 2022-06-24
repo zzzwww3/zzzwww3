@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 
 # 안드로이드 개발
 
+<p><h1><a href="https://play.google.com/store/apps/details?id=com.zzzwww3.weather" ><img src="https://play-lh.googleusercontent.com/HqoVOxFxNoe75lXfnBhO0cULKEWMouQvPEf-EPYmD1CwdEOfoEQhe2mivyWHx6phfQ=w240-h480-rw" width="50px" height="50px" title=""/> 오늘 날씨 어때?</a></h1></p>
+
+    [오늘 날씨 어때?]는 가장 정확하고 직관적인 날씨 앱입니다.
+    개발기간 :
+
 <p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.gongbak0100" ><img src="https://play-lh.googleusercontent.com/qrB936vn-UN5BmnZNebiQAswHVvIeyvtAu8RCcYpeh2-rqRrJN4D9RGK8Y0aT628Mys=w240-h480-rw" width="50px" height="50px" title=""/> 0100 - 인스타그램 줄바꿈은 공백</a></h1></p>
 
     [0100]은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
