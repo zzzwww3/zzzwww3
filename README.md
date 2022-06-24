@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzwww3&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p>
 <img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
 <img alt="UNITY" src ="https://img.shields.io/badge/UNITY-white.svg?&style=for-the-badge&logo=UNITY&logoColor=black"/>
@@ -28,19 +29,16 @@ Here are some ideas to get you started:
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-
+</p>
 <img alt="#" src ="https://img.shields.io/badge/#-#.svg?&style=for-the-badge&logo=#&logoColor=#"/>
 
 <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
-
-
 
 # 웹 개발
 
 <a href="http://notegg.co.kr/" ><img src="https://www.notegg.co.kr/images/noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/></a>
 <a href="https://www.noteggparan.co.kr/" ><img src="https://www.noteggparan.co.kr/img/favicon.ico" width="50px" height="50px" title="noteggparan_Logo"/></a>
 <a href="https://muwee.co.kr/" ><img src="./muwee.png" width="50px" height="50px" title="muwee_Logo"/></a>
-
 
 # 안드로이드 개발
 
