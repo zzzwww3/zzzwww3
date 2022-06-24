@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 
 <a href="https://play.google.com/store/apps/details?id=com.notegg.xface" ><img src="https://play-lh.googleusercontent.com/cQdClOXwZtRRHPMyFISxPG_9adSwxo0tC0GQ8m58tKlAgbUq1_HEsziV7_V12I5ZAD0=w240-h480-rw" width="50px" height="50px" title=""/> <h1>X-FACE - 사진 보정 탐지기</h1></a>
 
-    [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다.
+    [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다. 
      
