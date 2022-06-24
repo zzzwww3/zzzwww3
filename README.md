@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=slice&text=Hello&desc=I'm%20SunIl&fontAlign=80&fontAlignY=30&descAlign=80&descAlignY=50&fontSize=30&rotate=5)
 
+@settings {
+  font-size: 100;
+}
+
 
 ### Hi there 👋
 
