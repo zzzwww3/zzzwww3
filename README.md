@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 </p>
-<img alt="#" src ="https://img.shields.io/badge/#-#.svg?&style=for-the-badge&logo=#&logoColor=#"/>
-
-<img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
+<!-- 뱃지 사용법 <img alt="#" src ="https://img.shields.io/badge/-testsasdasd-brightgreen"/> -->
+<!-- <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/> -->
 
 # 웹 개발
 
