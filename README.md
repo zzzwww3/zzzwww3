@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 # 웹 개발
 
 <p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/>낫에그 홈페이지</a></p>
-<p><a href="https://www.noteggparan.co.kr/"  ><img src="./favicon.ico" width="50px" height="50px" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
+<p><a href="https://www.noteggparan.co.kr/"  ><img src="./noteggparanicon.ico" width="50px" height="50px" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
 <p><a href="https://muwee.co.kr/"  ><img src="./muwee.png" width="50px" height="50px" title="muwee_Logo"/>무위 홈페이지</a></p>
 
     NOTEGG란 회사에 입사 후 전공으로 인해 웹 개발할 일이 생기면 하게 되었지만 주로 프론트 엔드로 이쁘게 꾸미는 일들을 했다.
