@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=slice&text=Hello&desc=I'm%20SunIl&fontAlign=80&fontAlignY=30&descAlign=80&descAlignY=50&fontSize=30&rotate=5)
 
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **zzzwww3/zzzwww3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
+<!-- <p>
 <img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
 <img alt="UNITY" src ="https://img.shields.io/badge/UNITY-white.svg?&style=for-the-badge&logo=UNITY&logoColor=black"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-</p>
+</p> -->
 <!-- 뱃지 사용법 <img alt="#" src ="https://img.shields.io/badge/-testsasdasd-brightgreen"/> -->
 <!-- <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/> -->
 
