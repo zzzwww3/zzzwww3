@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
     아쉬운 점 
 
-        낮은 버전에선 백그라운드 Notification이 유지되지만 높은 버전에선 보안때문에 안되지만 해결하지 못한 채 방치되 있는 상태의 앱..
+        낮은 버전에선 백그라운드 Notification이 유지되지만 높은 버전에선 보안 때문에 안되지만 해결하지 못한 채 방치되 있는 상태의 앱..
 
     개발기간 : 3달
 
@@ -141,18 +141,29 @@ Here are some ideas to get you started:
 
 <p><h1><a href="https://github.com/zzzwww3/Unity_HIDE-SEEK"  >HIDE&SEEK</a></h1></p>
 
-## AI와 플레이어 모두 같은 외형으로 플레이어를 찾아 죽이는 숨바꼭질 게임입니다.
-<br/>
+    AI와 플레이어 모두 같은 외형으로 플레이어를 찾아 죽이는 숨바꼭질 게임입니다.
+
+# 서버 개발
+
+    nCloud로 centos7 서버 개설 이후 php와 MySql 세팅만 해본 수준.
 
 # 기타 개발
 
 <p><h1><a href="https://github.com/zzzwww3/Runcat_Custom_zzzwww3"  >RunCat_for_windows</a></h1></p>
 
-## 윈도우 CPU 사용량에 따라 움직임이 반영되는 고양이를 볼 수 있는 프로그램
-
+    윈도우 CPU 사용량에 따라 움직임이 반영되는 고양이를 볼 수 있는 프로그램
     Visual Studio // C#
     학생 때 배웠던 기억을 살려 수정할 수 있을지 궁금해서 사진 몇 장 넣은 거라 퀄리티는 낮다.
     원래 고양이와 앵무새밖에 없었지만 강아지와 사람을 추가했다.
+
+<p><h1><a href="https://github.com/zzzwww3/copy_paste_windows"  >복붙 매크로_윈도우_AutoHotKey</a></h1></p>
+
+    Windows 전용 프로그램 // AutoHotKey
+    반복작업할 때 쓰려고 만든 프로그램
+    여러 가지 내용들을 복붙으로 옮겨 붙일 때 복사 붙여넣기 알텝이 귀찮아서 복사할 텍스트들을 | 로 구분해서 선택 후 F2를 누르면 프로그램이 배열로 인식하여 F3을 누를 때마다 하나씩 출력해 준다.
+    출력 후 엔터가 필요 없는 경우 F12를 눌러 상태를 변경
+    F1과 F4로 인덱스를 변경 가능
+
 
     
     
