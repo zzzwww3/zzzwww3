@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 # 웹 개발
 
-<p><a href="http://notegg.co.kr/"  ><img src="https://www.notegg.co.kr/images/noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/>낫에그 홈페이지</a></p>
+<p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" width="50px" height="50px" title="notegg_Logo"/>낫에그 홈페이지</a></p>
 <p><a href="https://www.noteggparan.co.kr/"  ><img src="https://www.noteggparan.co.kr/img/favicon.ico" width="50px" height="50px" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
 <p><a href="https://muwee.co.kr/"  ><img src="./muwee.png" width="50px" height="50px" title="muwee_Logo"/>무위 홈페이지</a></p>
 
@@ -141,12 +141,18 @@ Here are some ideas to get you started:
 
 <p><h1><a href="https://github.com/zzzwww3/Unity_HIDE-SEEK"  >HIDE&SEEK</a></h1></p>
 
+## AI와 플레이어 모두 같은 외형으로 플레이어를 찾아 죽이는 숨바꼭질 게임입니다.
+<br/>
 
 # 기타 개발
 
 <p><h1><a href="https://github.com/zzzwww3/Runcat_Custom_zzzwww3"  >RunCat_for_windows</a></h1></p>
 
+## 윈도우 CPU 사용량에 따라 움직임이 반영되는 고양이를 볼 수 있는 프로그램
+
     Visual Studio // C#
-    윈도우 CPU 사용량에 따라 움직임이 반영되는 고양이를 볼 수 있는 프로그램인데 학생 때 배웠던 기억을 살려 수정할 수 있을지 궁금해서 사진 몇 장 넣은 거라 퀄리티는 낮다.
+    학생 때 배웠던 기억을 살려 수정할 수 있을지 궁금해서 사진 몇 장 넣은 거라 퀄리티는 낮다.
     원래 고양이와 앵무새밖에 없었지만 강아지와 사람을 추가했다.
+
+    
     
