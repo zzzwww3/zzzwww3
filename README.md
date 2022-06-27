@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
     MUWEE 무위는 취향 좋은 라이프스타일을 만나볼 수 있는 영상기반의 스트리밍 플랫폼입니다.
 
-    
+    매주 새로운 이슈를 소개하는 주간 매거진과 7초 동영상이 주 기능으로 주간 매거진은 DB에서 값을 받아와 모두 동적으로 만들어지고 동영상은 앱에서 7초로 편집 후 서버에 올리고 관리자가 승인해 주면 사용자에게 돈이 지급됩니다.
 
     개발기간 : 3달
     
@@ -115,12 +115,19 @@ Here are some ideas to get you started:
 
     [모헤]는 남녀노소 모두를 위한 헤어 제품 리뷰/모발 관리 정보 플랫폼입니다.
 
+    일반회원과 기업회원을 로그인 시점에서 구분하여 모두 사용할 수 있게 만든 헤어 제품 쇼핑앱
+    사용자들의 리뷰가 중점인 앱 -> 리뷰가 없으면 상품이 등록되어도 노출이 되지 않도록 설계
+    아임포트를 이용하여 결제 구현
+    일반회원이 제품 구매 시 기업회원에게 푸쉬 메시지 기능
+    기업회원이 택배 후 송장 번호를 기입하면 일반회원에게 푸쉬 메시지 기능
+    DB설계와 php를 이용한 api를 모두 만든 프로젝트 
 
     개발기간 : 3달
 
 <p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.ao"  ><img src="https://play-lh.googleusercontent.com/_9UWmeX_6xBMHIU5WZaVFu1l2rR5WbZTZStfDMJoczCueI8BRdpH7dzQjOZGYPCMag=w240-h480-rw" width="50px" height="50px" title=""/> AO - 슬기로운 캠핑생활</a></h1></p>
 
     [AO]는 캠핑을 기록할 수 있는 앱입니다.
+
     개발기간 : 4달
 
 
@@ -128,20 +135,21 @@ Here are some ideas to get you started:
 
     [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다.
 
+    앱에서 사진을 등록하면 서버에 파일 등록 후 php로 Python을 실행시켜 사진의 보정 정도를 %로 알려준다.
     처음으로 서버에서 Python을 사용한 앱이라 애를 많이 먹었다.
     로컬에선 Python으로 실행했을 때 생각보다 간단하게 실행되어 금방 끝날 줄 알았는데 서버에선 너무나 달랐다.
     서버에 대한 지식이 많이 없었기도 했고 centos에서 php를 POST 방식으로 호출하면 php가 python을 실행한 후 결괏값을 넘겨주는 방식으로 구현하는데 서버 개설 후 초기에 세팅해 줘야 할 것도 많고 권한 문제로도 힘들었던 작업이었다.
     
     개발기간 : 3주
-     
-     
-
 
 # 게임 개발
 
 <p><h1><a href="https://github.com/zzzwww3/Unity_HIDE-SEEK"  >HIDE&SEEK</a></h1></p>
 
     AI와 플레이어 모두 같은 외형으로 플레이어를 찾아 죽이는 숨바꼭질 게임입니다.
+    대학교 졸업 작품으로 게임 개발에 대한 지식이 없는 상태로 3달 동안 혼자 만든 PC 게임입니다.
+
+    개발기간 : 3달
 
 # 서버 개발
 
