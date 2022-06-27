@@ -58,7 +58,7 @@ Here are some ideas to get you started:
         foregroundService로 상단바 알림
         BroadcastReceiver 활용해 화면이 켜질 시 상단바 알림 정보 최신화
         다크모드 지원
-        한글 /영어 지원
+        한글 °C /영어 °F 지원
         AdMob 광고
         Playstore 앱 등록
 
