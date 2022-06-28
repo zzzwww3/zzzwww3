@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 
     nCloud로 centos7 서버 개설 이후 php와 MySql 세팅만 해본 수준.
 
-# 기타 개발
+# 기타
 
 <p><h1><a href="https://github.com/zzzwww3/Runcat_Custom_zzzwww3"  >RunCat_for_windows</a></h1></p>
 
