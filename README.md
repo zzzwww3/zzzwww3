@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 
 # 서버 개발
 
-    nCloud로 centos7 서버 개설 이후 php와 MySql 세팅만 해본 수준.
+    nCloud로 centos7 서버 개설 이후 php, MySql, Python 세팅만 해본 수준.
 
 # 기타
 
