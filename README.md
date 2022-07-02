@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <!-- 뱃지 사용법 <img alt="#" src ="https://img.shields.io/badge/-testsasdasd-brightgreen"/> -->
 <!-- <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/> -->
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzzwww3&count_bg=%230714AD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 웹 개발
 
 <p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" title="notegg_Logo"/>낫에그 홈페이지</a></p>
