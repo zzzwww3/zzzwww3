@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <p><a href="https://www.noteggparan.co.kr/"  ><img src="./noteggparanicon.ico" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
 <p><a href="https://muwee.co.kr/"  ><img src="./muwee.ico" title="muwee_Logo"/>무위 홈페이지</a></p>
 '''
+
 NOTEGG란 회사에 입사 후 전공으로 인해 웹 개발할 일이 생기면 하게 되었지만 주로 프론트 엔드로 이쁘게 꾸미는 일들을 했다.
+
 ''' 
     
 <!--     짧게 하면서 느낀 점은 프론트 쪽으로 웹은 개발된 코드를 쉽게 볼 수 있어 남이 만든 기능을 비교적 쉽게 가져올 수 있다는 게 신기했다. -->
