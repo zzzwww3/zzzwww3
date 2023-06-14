@@ -356,7 +356,7 @@ Here are some ideas to get you started:
         Playstore 앱 등록
 
     프로젝트 기여도: 100%
-    개발기간 : 3달
+    개발기간 : 3달 (20년)
 <!-- 아쉬운 점 
 
         낮은 버전에선 백그라운드 Notification이 유지되지만 높은 버전에선 보안 때문에 안되지만 해결하지 못한 채 방치되 있는 상태의 앱..
