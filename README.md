@@ -307,7 +307,7 @@ Here are some ideas to get you started:
         필터 오버레이 기능
 
     프로젝트 기여도: 30%
-    개발기간 : 3달 (21년 3월 ~ 22년 5월)
+    개발기간 : 3달 (21년 3월 ~ 21년 5월)
 
 <p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.gongbak0100"  ><img src="https://play-lh.googleusercontent.com/qrB936vn-UN5BmnZNebiQAswHVvIeyvtAu8RCcYpeh2-rqRrJN4D9RGK8Y0aT628Mys=w240-h480-rw" width="50px" height="50px" title=""/> 0100 - 인스타그램 줄바꿈은 공백</a></h1></p>
 
