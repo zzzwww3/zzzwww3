@@ -1,54 +1,28 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=slice&text=Hello&desc=I'm%20SunIl&fontAlign=80&fontAlignY=30&descAlign=80&descAlignY=50&fontSize=30&rotate=5)
+# 경력기술서
 
+|Profile|||
+|---|---|---|
+|이름|이선일|
+|직무경력|주식회사 낫에그(안드로이드 개발팀 팀원)<br/>2021.03.15 ~ 2023.07.07(2년 3개월)|
 
-<!-- ### Hi there 👋 -->
+|Skill|||
+|---|---|---|
+|Language|Android(중), Java(중), Kotlin(하), python(하), linux(하),C#(하),php(하),html,css,javascript(하)|
+|Platform|Android|
+|System|Window, Max OS X|
+|Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
 
-<!--
-**zzzwww3/zzzwww3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# NOTEGG(낫에그) 프로젝트 
 
-Here are some ideas to get you started:
+## [키재니]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GooglePlay : https://play.google.com/store/apps/details?id=com.isaac.kisani
 
+작업 기간 : 23.01 ~ 23.05 (약 5개월) 
 
-<!-- <p>
-<img alt="java" src ="https://img.shields.io/badge/JAVA-blue.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
-<img alt="UNITY" src ="https://img.shields.io/badge/UNITY-white.svg?&style=for-the-badge&logo=UNITY&logoColor=black"/>
-<img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-</p> -->
-<!-- 뱃지 사용법 <img alt="#" src ="https://img.shields.io/badge/-testsasdasd-brightgreen"/> -->
-<!-- <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/> -->
+개발 인원 : 안드로이드(1명), 아이폰(1명), 백엔드(1명)
 
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzzwww3&count_bg=%230714AD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-
-<!-- <p><a href="http://notegg.co.kr/"  ><img src="http://notegg.co.kr/images/noteggicon.ico" title="notegg_Logo"/>낫에그 홈페이지</a></p>
-<p><a href="https://www.noteggparan.co.kr/"  ><img src="https://www.noteggparan.co.kr/img/etc/favicon.ico" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
-<p><a href="https://muwee.co.kr/"><img src="https://muwee.co.kr/web/upload/favicon-0033f44800919d9339cc98d80130df5b.ico" title="muwee_Logo"/>무위 홈페이지</a></p> -->
-<!-- 
-    NOTEGG란 회사에 입사 후 전공으로 인해 웹 개발할 일이 생기면 하게 되었지만 주로 프론트 엔드로 이쁘게 꾸미는 일들을 했다. -->
-
-    
-<!--     짧게 하면서 느낀 점은 프론트 쪽으로 웹은 개발된 코드를 쉽게 볼 수 있어 남이 만든 기능을 비교적 쉽게 가져올 수 있다는 게 신기했다. -->
-
-# 안드로이드 개발 (JAVA)
-
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.isaac.kisani"  ><img src="https://play-lh.googleusercontent.com/a_isRCnm1gQStYumoyWwx_MjvxeEddiTqNUR1zyqVxie61P3Z5vGcBvILpBtuRBTAb5S=w240-h480-rw" width="50px" height="50px" title=""/>키재니</a></h1></p>
+키재니는 직접 그린 그림을 쉽고 재미있게 애니메이션으로 제작할 수 있습니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/BCxYzRv7wF_utnPLuHKCu46776Sj7SPT7zj1kxU7hIwMnhr4q7rY6DRMu2oc-EcLqvNg=w2560-h1440-rw">
@@ -58,24 +32,38 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/CRk8t53gxqH1UPki8u5BJlg9_aqvE6dojRR4IwzNy9WvWHwoWm6qjz6NBkG9cewslBAP=w2560-h1440-rw">
 </span>
 
-    # 외주 프로젝트
-    [키재니]는 직접 그린 그림을 쉽고 재미있게 애니메이션으로 제작할 수 있습니다.
+프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- RecyclerView, Fragment, ConstraintLayout, FrameLayout, LinearLayout, ScrollView, abstract, interface, Retrofit2, Camera, ffmpeg, metadata, document scanning, colorpicker, glide, Tedpermission, SharedPreference, python(remove background)
 
-    주요 기능
+프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
+- 앱의 모든 화면과 기능 개발
+- Kakao Login SDK 를 통한 카카오 간편 로그인 기능 구현
+- Naver Login SDK 를 통한 네이버 간편 로그인 기능 구현
+- 사진의 윤곽선을 따서 배경을 지워주는 기능 python으로 개발
+- colorpicker를 이용하여 색상을 선택하면 사진의 색상을 빼거나 넣어주는 기능
+- ffmpeg라이브러리를 이용하여 동영상 제작, 배경소리 합성, 녹음 음성 합성 기능
+- 파일 관리를 위해 metadata 이용
+- 캐릭터 Move, Rotate, Scale 컨트롤을 위한 커스텀 뷰 구현
+- 애니메이션 History 저장을 위한 SharedPreference
+- 캐릭터 관리를 위한 싱글톤패턴
+- document scanner 라이브러리를 이용하여 스캔 기능
+- RestAPI 통신을 위해 Retrofit2 을 활용하여 통신 코드 구성
+- localization (영어)
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-        회원관리 기능(카카오 로그인 API, 구글 로그인 API)
-        카메라, 갤러리 기능
-        색상 제거 기능
-        누끼 따기 기능(python)
-        ffmpeg 라이브러리 [이미지를 동영상으로 만들기, 소리 없는 mp3 파일 만들기, 영상과 소리 합치기, 영상끼리 합치기] 
-        DocumentScanning 기능
-        영상의 초, 해상도 변경하는 기능
-
-    프로젝트 기여도: 100%
-    개발기간 : 5달 (23년 1월 ~ 23년 5월)
 
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.eunedu.mannermelody"  ><img src="https://play-lh.googleusercontent.com/APcngXR83DHTLNuF63F1M3iUiYo5Asnz-QmvvKhNy2SdAGaRPEC5ArK-3kMHYF68t9CC=w240-h480-rw" width="50px" height="50px" title=""/>매너로디</a></h1></p>
+## [매너로디]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.eunedu.mannermelody
+
+작업 기간 : 22.09 ~ 23.01 (약 5개월)
+
+개발 인원 : 안드로이드(1명)
+
+
+매너로디는 청각 장애가 있어도 시각과 촉각으로 음악을 느낄 수 있도록 돕는 음악 플레이어입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/BBzFmUwqbJaT1ngTiA4ENK2TgN-B-qKS-WEpUVVQvc7LzGkFjPtgbrarHiU3PB4l8Xs=w2560-h1440-rw">
@@ -85,21 +73,34 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/NmAAmVJaYsoxmzEuhTjf7BXaR5wp1j2-5o09a5dKpUOofeDQDrQ5idvX17ttZD2DfN4=w2560-h1440-rw">
 </span>
 
-    # 외주 프로젝트
-    [매너로디]는 청각 장애가 있어도 시각과 촉각으로 음악을 느낄 수 있도록 돕는 음악 플레이어입니다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- RecyclerView, Fragment, ConstraintLayout, LinearLayout, ScrollView, abstract, interface, Retrofit2, glide, Service, firebase, gson, Amplituda, SharedPreference, cropimage
 
-    주요 기능
+해당 프로젝트에 진행한 주요 업무로는 다음과 같습니다.
+- 앱의 모든 화면과 기능 개발
+- DB테이블 구조 설계
+- nCloud Centos7 을 기반으로 서버 구성 (apache, php, php-mysql, mariadb)
+- php를 통한 API 설계
+- Amplituda를 이용한 노래 파일의 pitch 분석
+- 가우디오랩 API를 활용한 노래 분석  
+- 가사에 맞춰 터지는 애니메이션, 진동 
+- FirebaseCloudMessaging 을 통한 클라우드 메시징 수신 구현
+- SharedPreference 를 이용해 유저 정보를 저장 및 활용
+- Vibrator 를 이용한 커스텀 진동 구현
+- MutilPartFormData 통신을 통한 mp3, txt 파일 업로드 구현
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-        회원관리 기능
-        노래 재생 및 노래 가사에 맞춰 진동과 사라지는 애니메이션 기능
-        노래 분석 기능 (가우디오 랩 API)
-        노래 검색, 좋아요 기능
-        Firebase 클라우드 메시징(FCM)
+## [CALLA V]
 
-    프로젝트 기여도: 100%
-    개발기간 : 5달 (22년 9월 ~ 23년 1월)
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.callav
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.callav"  ><img src="https://play-lh.googleusercontent.com/uoaD31OsDoKPFtGRdRizR0ddK53pFd2X-x3x6t_0LkCOoJjkqVHYaIzPvmGuQ2vwDn8=w240-h480-rw" width="50px" height="50px" title=""/>CALLA V</a></h1></p>
+작업 기간 : 22.07 ~ 22.08 (약 2개월)
+
+개발 인원 : 안드로이드(1명)
+
+
+CALLAV는 다양한 필름과 효과를 사용할 수 있는 빈티지 필름 비디오 카메라입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/di28F0N34XWiuYnHtVTUCam1HXWD3GwdFwh-Kma_-KMvIwJ5EBMJxScz_yufdl5eFg=w2560-h1440-rw">
@@ -108,21 +109,30 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/ZXn1tg3zep4mZp2atkW3flgz0-2ijbRYTWgAuhufGWtOwIl4ZbzNqodBm3EI5EilYQ=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [CALLAV]는 다양한 필름과 효과를 사용할 수 있는 빈티지 필름 비디오 카메라입니다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- Camera, opengl, glide, ffmpeg, admob, Billing
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        동영상 기능
-        실시간 필터 오버레이 기능
-        회전 애니메이션 기능 
+- 앱의 모든 화면과 기능 개발
+- 카메라 뷰 커스텀
+- 실시간 필터 오버레이 기능
+- 회전에 따른 애니메이션
+- admob 광고 기능
+- 광고제거 인앱결제 기능
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-    프로젝트 기여도: 100%
-    개발기간 : 2달 (22년 7월 ~ 22년 8월)
+## [블루캘린더]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.bluecalendar
+
+작업 기간 : 22.05 ~ 22.12 (약 8개월)
+
+개발 인원 : 안드로이드(1명)
 
 
-
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.zzzwww3.bluecalendar"  ><img src="https://play-lh.googleusercontent.com/5fw1rHcGWdJfQQhQMeOjROrHxI6rOkXGPolfQOmnDPF6Qacyu-hE3CQdXwYYH48Z6ya3=w240-h480-rw" width="50px" height="50px" title=""/>블루캘린더</a></h1></p>
+블루캘린더는 일용직 근로자가 공수를 간편하게 관리할 수 있는 기능을 제공합니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/2HDQ5RnXKFdGaE2b1QcX6lsYc8ECvrBmy-MJfpm9p-kBFRuR0YvdNr0B3gKP7wFbFIc=w2560-h1440-rw">
@@ -132,24 +142,36 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/P8d_Sl9iUacD2Uy8ahUwVUckr9StMJYZZC5qx1TSoVSE0bYfONgFI5KSqtTAPFnsf6s=w2560-h1440-rw">
 </span>
 
-    # 외주 프로젝트
-    [블루캘린더]는 일용직 근로자가 공수를 간편하게 관리할 수 있는 기능을 제공합니다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- okhttp3, glide, material-calendarview, iamport, HttpURLConnection, interface, WebView, ConstraintLayout, LinearLayout, RecyclerView
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        회원관리 기능
-        커스텀 캘린더 기능
-        월, 년 공수 계산 기능
-        근로자 모드, 관리자 모드 기능
-        관리자 모드 팀원에게 일괄 문자 기능(알리고 api)
-        Iamport 결제 기능
+- 앱의 모든 화면과 기능 개발
+- DB테이블 구조 설계
+- nCloud Centos7 을 기반으로 서버 구성 (apache, php, php-mysql, mariadb)
+- php를 통한 API 설계
+- 회원관리 기능
+- 커스텀 캘린더 기능
+- 월, 년 공수 계산 기능
+- 근로자 모드, 관리자 모드 기능
+- 관리자 모드 팀원에게 일괄 문자 기능(알리고 api)
+- 공휴일 API
+- Iamport 결제 기능
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-    프로젝트 기여도: 100%
-    개발기간 : 8달 (22년 5월 ~ 22년 12월)
+
+## [X-FACE - 사진 보정 탐지기]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.xface
+
+작업 기간 : 22.02 (약 3주)
+
+개발 인원 : 안드로이드(1명), 아이폰(1명)
 
 
-
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.xface"  ><img src="https://play-lh.googleusercontent.com/cQdClOXwZtRRHPMyFISxPG_9adSwxo0tC0GQ8m58tKlAgbUq1_HEsziV7_V12I5ZAD0=w240-h480-rw" width="50px" height="50px" title=""/> X-FACE - 사진 보정 탐지기</a></h1></p>
+X-FACE는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/y7DCjrDbuoTHFVZZb-nVp3XdL7Lsf38zVrlhAXMYf46gXT82LUsc3JK82eLwpDxy=w2560-h1440-rw">
@@ -157,22 +179,32 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/VRZAhvdnrU5Eglwrejn2sLBJfi_49V_1qVYHrLlIiguX9yKAkP5WhOB0cGdwIyutF8Em=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [X-FACE]는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입니다.
-    앱에서 사진을 등록하면 서버에 파일 등록 후 php로 Python을 실행시켜 사진의 보정 정도를 %로 알려준다.
-    처음으로 서버에서 Python을 사용한 앱이라 애를 많이 먹었다.
-    로컬에선 Python으로 실행했을 때 생각보다 간단하게 실행되어 금방 끝날 줄 알았는데 서버에선 너무나 달랐다.
-    서버에 대한 지식이 많이 없었기도 했고 centos에서 php를 POST 방식으로 호출하면 php가 python을 실행한 후 결괏값을 넘겨주는 방식으로 구현하는데 서버 개설 후 초기에 세팅해 줘야 할 것도 많고 권한 문제로도 힘들었던 작업이었다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- python, admob, okhttp3, glide, ConstraintLayout
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        python을 사용하여 이미지의 픽셀유동화의 정도를 알아내는 기능
+- 앱의 모든 화면과 기능 개발
+- nCloud Centos7 을 기반으로 서버 구성 (apache, php, php-mysql, mariadb, python, anaconda3)
+- php를 통한 API 설계
+- python을 활용한 사진 분석 기능-> 픽셀유동화의 정도를 %로 
+- admob 광고 기능
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-    프로젝트 기여도: 100%
-    개발기간 : 3주 (22년 2월)
 
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.ao"  ><img src="https://play-lh.googleusercontent.com/_9UWmeX_6xBMHIU5WZaVFu1l2rR5WbZTZStfDMJoczCueI8BRdpH7dzQjOZGYPCMag=w240-h480-rw" width="50px" height="50px" title=""/> AO - 슬기로운 캠핑생활</a></h1></p>
+
+## [AO - 슬기로운 캠핑생활]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.ao
+
+작업 기간 : 22.01 ~ 22.05 (약 5개월)
+
+개발 인원 : 안드로이드(1명), 아이폰(1명)
+
+
+AO는 캠핑을 기록할 수 있는 앱입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/8ZnKe0Wfs16T5pv_r4mERtOaDNesUR-ZR5gvwfTbVCVuTa48lfhEtz1IAbHnJqdLtXo=w2560-h1440-rw">
@@ -182,42 +214,37 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/8lDWX0wPl7veLfP0JYqO7_6pFD9x_rZ5pICiWegQZU6t981cOXKtcZXZDkOWctkjpaMs=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [AO]는 캠핑을 기록할 수 있는 앱입니다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- QR camera, naver map, Retrofit2, glide, firebase, material-calendarview, chart, WebView, ConstraintLayout
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        카카오 로그인
-        Firebase 클라우드 메시징(FCM)
-        네이버 지도 API
-        python crawling
-        캘린더 (일정 예약 기능)
-        회원 랭킹, 캠핑장 랭킹
-        회원 캠핑 데이터 분석 및 그래프
-        회원 게시판(글쓰기 및 수정, 삭제, 차단, 신고) 기능
-
-    프로젝트 기여도: 100%
-    개발기간 : 5달 (22년 1월 ~ 22년 5월)
-
-<!-- <p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.mohe"  ><img src="https://play-lh.googleusercontent.com/WQ6uoCQsm1v9WdOtrWwQBmtUc4nbAiOv2jDwtCi7zRMsRA_J38ThxAevVbL1V9xtgR0=w240-h480-rw" width="50px" height="50px" title=""/> 모헤</a></h1></p>
-
-<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/gvDdBHyNu4SAg7y7cYl75viU5btrBTmjrTnk5KaEM6WkCQLuVOqZUWQL3a31KMEYNg=w2560-h1440-rw">
-
- [모헤]는 남녀노소 모두를 위한 헤어 제품 리뷰/모발 관리 정보 플랫폼입니다.
-
-    외주 작업
-    일반회원과 기업회원을 로그인 시점에서 구분하여 모두 사용할 수 있게 만든 헤어 제품 쇼핑앱
-    사용자들의 리뷰가 중점인 앱 -> 리뷰가 없으면 상품이 등록되어도 노출이 되지 않도록 설계 (클라이언트 요청)
-    아임포트를 이용하여 결제 구현
-    일반회원이 제품 구매 시 기업회원에게 푸쉬 메시지 기능
-    기업회원이 택배 후 송장 번호를 기입하면 일반회원에게 푸쉬 메시지 기능
-    DB설계와 php를 이용한 api를 모두 만든 프로젝트 
-    
-    프로젝트 기여도: 100%
-    개발기간 : 3달  -->
+- 앱의 모든 화면과 기능 개발
+- DB테이블 구조 설계
+- nCloud Centos7 을 기반으로 서버 구성 (apache, php, php-mysql, mariadb)
+- php를 통한 API 설계
+- 카카오 로그인
+- Firebase 클라우드 메시징(FCM)
+- 네이버 지도 API
+- python crawling ( 사용자가 첫 캠핑장 등록 시 네이버에 등록된 메인 이미지 주소를 DB에 저장 )
+- 캘린더 (일정 예약 기능)
+- 회원 랭킹, 캠핑장 랭킹
+- 회원 캠핑 데이터 분석 및 그래프
+- 회원 게시판(글쓰기 및 수정, 삭제, 차단, 신고) 기능
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.dazzl"  ><img src="https://play-lh.googleusercontent.com/eKR2rSPDb8nHAFpkdcLLm85M-3dMOokEAxszqIUHgbpihSfySxYgG80bnGU99Zc2Mw=w240-h480-rw" width="50px" height="50px" title=""/> DAZZL - 눈부신 순간들</a></h1></p>
+## [DAZZL - 눈부신 순간들]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.dazzl
+
+작업 기간 : 22.04 (1일)
+
+개발 인원 : 안드로이드(1명)
+
+
+DAZZL은 플래시를 사용하는 랜덤 필터 카메라입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/jS8eASFTbnv5PFYJjNcaaPyyuUPbqVhksljfDd2L6eynggxGqBtHM82QzBrtOOdoqfM=w2560-h1440-rw">
@@ -225,21 +252,32 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/gvDdBHyNu4SAg7y7cYl75viU5btrBTmjrTnk5KaEM6WkCQLuVOqZUWQL3a31KMEYNg=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [DAZZL]은 플래시를 사용하는 랜덤 필터 카메라입니다.
-    [CALLA] 앱 필터 한 개만 사용하는 앱이라 어렵지 않았다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- Camera, opengl, async-http(slack), MediaPlayer, ConstraintLayout
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        카메라 기능
-        이미지 오버레이 기능
+- 앱의 모든 화면과 기능 개발
+- 카메라 기능
+- 이미지 오버레이 기능
+- 촬영 후 동영상 재생 기능
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-    프로젝트 기여도: 100%
-    개발기간 : 1일 (21년 4월)
+
+## [PLOT - 플롯, 나의 이야기]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.plot
+
+작업 기간 : 21.08 (2주)
+
+개발 인원 : 안드로이드(1명)
 
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.plot"  ><img src="https://play-lh.googleusercontent.com/zAWkW7q5JnkjqaBt9zPf1_sFZY_qIUP3baMKGIhIpckssJBVpynIn47YTuFDcZOccxA=w240-h480-rw" width="50px" height="50px" title=""/> PLOT - 플롯, 나의 이야기</a></h1></p>
+PLOT은 폴라로이드 특유의 감성이 담긴 카메라 어플 입니다.
 
+카메라로 찍은 사진이나 저장되어 있는 사진을 폴라로이드 프레임을 씌어주고 사용자가 그림을 그릴 수 있게 한 앱.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/dEeooxDnsxKcGg_NkjE2BxjnqnRLJZaWtho14JSxoJU4_QhpmoZsrD-JWFZ4JXnZ9w=w2560-h1440-rw">
@@ -247,22 +285,33 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/kKukIF4mqViMBObpAO1GXKMTJGdEoyxW4BMxQRyL6hiDl5HTVlztVY774_pb1GS1lw=w2560-h1440-rw">
 </span>
 
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- Camera, opengl, fingerpaint, glide
 
-    # NOTEGG 프로젝트
-    [PLOT]은 폴라로이드 특유의 감성이 담긴 카메라 어플 입니다.
-    카메라로 찍은 사진이나 저장되어 있는 사진을 폴라로이드 프레임을 씌어주고 사용자가 그림을 그릴 수 있게 한 앱.
-  
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        갤러리, 카메라 기능
-        폴라로이드 필름 오버레이 기능
-        터치로 그림을 그릴 수 있는 기능
+- 앱의 모든 화면과 기능 개발
+- 카메라,갤러리 기능
+- 이미지 오버레이 기능
+- 촬영 후 동영상 재생 기능
+- 폴라로이드 필름 오버레이 기능
+- 터치로 그림을 그릴 수 있는 기능
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-    프로젝트 기여도: 100%
-    개발기간 : 2주 (21년 8월)
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.meong"  ><img src="https://play-lh.googleusercontent.com/4xN0kFoHG_q9-NwauHvKBOI_84nycmJtsgUVp_MAaQxxA_1qTfXOvHu-1nPI1sPrQG_j=w240-h480-rw" width="50px" height="50px" title=""/> MUWEE - 컬처 아카이빙</a></h1>
-</p>
+
+## [MUWEE - 컬처 아카이빙]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.meong
+
+작업 기간 : 21.05 ~ 21.07 (약 3달)
+
+개발 인원 : 안드로이드(1명)
+
+MUWEE 무위는 취향 좋은 라이프스타일을 만나볼 수 있는 영상기반의 스트리밍 플랫폼입니다.
+
+매주 새로운 이슈를 소개하는 주간 매거진과 7초 동영상이 주 기능으로 주간 매거진은 DB에서 값을 받아와 모두 동적으로 만들어지고 동영상은 앱에서 7초로 편집 후 서버에 올리고 관리자가 승인 시 유저들에게 노출되는 앱
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/CPkTYoSMO4UMhm_OI-MuB6yQDNe4DQkgp5Tfgemnnqx2wA1QnzqXGl3X0BC4H4md4Wz2=w2560-h1440-rw">
@@ -272,21 +321,31 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/pLuqK_7BOnZAvkr9qYlmYY4WeiaVXBVXTp2TAMh6i2ZfOIbMSb3wGDUna0pXB7rqSIQ=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    MUWEE 무위는 취향 좋은 라이프스타일을 만나볼 수 있는 영상기반의 스트리밍 플랫폼입니다.
-    매주 새로운 이슈를 소개하는 주간 매거진과 7초 동영상이 주 기능으로 주간 매거진은 DB에서 값을 받아와 모두 동적으로 만들어지고 동영상은 앱에서 7초로 편집 후 서버에 올리고 관리자가 승인 시 유저들에게 노출되는 앱
-    
-    주요 기능
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- ConstraintLayout, LinearLayout, RecyclerView, glide, async-http(slack), webView, realtimeblurview, Video Trim, cropimage, firebase
 
-        DB 데이터로 만들어지는 동적뷰 구현(매거진)
-        WebView 
-        비디오 에디터 (동영상 7초 트림)
-        Firebase 클라우드 메시징(FCM)
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-    프로젝트 기여도: 100%
-    개발기간 : 3달 (21년 5월 ~ 21년 7월)
+- 앱의 모든 화면과 기능 개발
+- 주마다 바뀌는 매거진 내용으로 동적 뷰 생성(LinearLayout)
+- 동영상 7초로 편집, 서버로 전송
+- Firebase 클라우드 메시징(FCM)
+- 회원관리 기능
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- release, debug 모드에 각각 proguard 적용
+- Playstore 배포
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.calla"  ><img src="https://play-lh.googleusercontent.com/a0L5TYEZTea1t8DNwi1PJmw7NHsITzxANOQuAef2zxOIGpixAFCjgW9Ve9Xu8eJVLH0=w240-h480-rw" width="50px" height="50px" title=""/> CALLA - 칼라, 색을 담다 필름카메라</a></h1></p>
+## [CALLA - 칼라, 색을 담다 필름카메라]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.calla
+
+작업 기간 : 21.03 ~ 21.05 (약 3달)
+
+개발 인원 : 안드로이드(1명)
+
+
+CALLA는 필름 교체 형식의 랜덤 필름카메라입니다.
+아이폰 앱과 동일하게 만들기 위해 이미 만들어진 앱에 카메라 기능을 추가 개발하는 작업
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/h4fI0eeiVnGZzLR8dBkJdFE28ClMXSvEQxzn-gI3Ia1U9ThcXwY5sfcoLGW_q5BFmQ=w2560-h1440-rw">
@@ -296,20 +355,29 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/8SpHw24tAI_nXhW2bmjldtZu3Q2bb1gE8-Ht58uew3SI0r2Ud2XtkJm3Y5XQdGscZnJP=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [CALLA]는 필름 교체 형식의 랜덤 필름카메라입니다.
-    아이폰 앱과 동일하게 만들기 위해 이미 만들어진 앱에 카메라 기능을 추가 개발하는 작업
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+- Camera, opengl, glide, RecyclerView, admob, Billing
 
-    개발한 주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        카메라 기능 구현
-        제스처에 의한 애니메이션 기능
-        필터 오버레이 기능
+- 카메라 화면과 기능 개발
+- 제스처에 의한 애니메이션 기능
+- 필터 오버레이 기능
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- release, debug 모드에 각각 proguard 적용
 
-    프로젝트 기여도: 30%
-    개발기간 : 3달 (21년 3월 ~ 21년 5월)
 
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.notegg.gongbak0100"  ><img src="https://play-lh.googleusercontent.com/qrB936vn-UN5BmnZNebiQAswHVvIeyvtAu8RCcYpeh2-rqRrJN4D9RGK8Y0aT628Mys=w240-h480-rw" width="50px" height="50px" title=""/> 0100 - 인스타그램 줄바꿈은 공백</a></h1></p>
+
+## [0100 - 인스타그램 줄바꿈은 공백]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak0100
+
+작업 기간 : 21.03 (5일)
+
+개발 인원 : 안드로이드(1명)
+
+
+0100은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/JBYApVi_THnxB6m-YhIpIUBdrGzALCjSjzhPSnzmwgSZiAWFrwfYxqmZ8NCZXNGDyg=w2560-h1440-rw">
@@ -317,22 +385,31 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/rcj75yG1Octgb2tb7sDMSFWULPe_g7uWR7BzCRuZbZ-00lV7IiqzfkZ-EnSkQS43isk=w2560-h1440-rw">
 </span>
 
-    # NOTEGG 프로젝트
-    [0100]은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
-    NOTEGG란 회사에 입사 후 처음 개발하게된 앱
-    인스타그램 피드 작성시에 줄내림이 막혀있는데 줄내림을 특정 코드로 치환만 해주면 되는 메모장 앱이여서 간단했다.
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+-  glide, admob, Billing, RecyclerView, DrawerLayout, LinearLayout, InputMethodManager
 
-    주요 기능
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-        이모티콘 메모장 기능
-        클립보드 복사 기능
-        Admob 광고 기능
-        Google Play 결제 기능(광고 제거)
+- 앱의 모든 화면과 기능 개발
+- 이모티콘 메모장 기능
+- 클립보드 복사 기능
+- Admob 광고 기능
+- Google Play 결제 기능(광고 제거)
+- localization (한글, 영어)
+- InputMethodManager 를 통한 소프트 키보드의 활성 유무에 따른 레이아웃 관리 
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- release, debug 모드에 각각 proguard 적용
 
-    프로젝트 기여도: 100%
-    개발기간 : 5일 (21년 3월)
-    
-<p><h1><a href="https://play.google.com/store/apps/details?id=com.zzzwww3.weather"  ><img src="https://play-lh.googleusercontent.com/HqoVOxFxNoe75lXfnBhO0cULKEWMouQvPEf-EPYmD1CwdEOfoEQhe2mivyWHx6phfQ=w240-h480-rw" width="50px" height="50px" title=""/> 오늘 날씨 어때?</a></h1></p>
+
+# 개인 프로젝트
+
+## [오늘 날씨 어때?]
+
+GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
+
+작업 기간 : 20년 (약 3달)
+
+오늘 날씨 어때?는 가장 정확하고 직관적인 날씨 앱입니다.
 
 <span>
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/C1IlDwVaIgImUVGuMksHdqiqz4IiOZQHNFwuO1cgTNCviJb5lKuLmCCWIW3GPBEEFig=w2560-h1440-rw">
@@ -340,27 +417,26 @@ Here are some ideas to get you started:
 <img width="166px" height="296px" src="https://play-lh.googleusercontent.com/FEnIrg36cFyOZZTskgPTl1Me2y8PONMa2q9EWcBu1hSmHWvQBT-1nUin65tnBXG7vg=w2560-h1440-rw">
 </span>
 
-    # 개인 프로젝트
-    [오늘 날씨 어때?]는 가장 정확하고 직관적인 날씨 앱입니다.
-    평소에 나가기전에 항상 날씨를 확인 하고 나가는데 만들면 내가 꾸준히 쓰겠다 싶어 만든 첫 앱 
-    
-    주요 기능
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+-  async-http, gson, RecyclerView, admob, glide, Service
 
-        GPS로 나라, 지역 날씨 검색 할 수 있는 기능
-        비, 눈 오는날 알림
-        foregroundService로 상단바 알림
-        BroadcastReceiver 활용해 화면이 켜질 시 상단바 알림 정보 최신화
-        다크모드 지원
-        한글 °C /영어 °F 지원
-        AdMob 광고
-        Playstore 앱 등록
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
 
-    프로젝트 기여도: 100%
-    개발기간 : 3달 (20년)
-<!-- 아쉬운 점 
+- 앱의 모든 화면과 기능 개발
+- GPS로 나라, 지역 날씨 검색 할 수 있는 기능
+- 비, 눈 오는날 알림
+- foregroundService로 상단바 알림
+- BroadcastReceiver 활용해 화면이 켜질 시 상단바 알림 정보 최신화
+- 다크모드 지원
+- 한글 °C /영어 °F 지원
+- AdMob 광고
+- localization (한글, 영어)
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- Playstore 앱 등록
 
-        낮은 버전에선 백그라운드 Notification이 유지되지만 높은 버전에선 보안 때문에 안되지만 해결하지 못한 채 방치되 있는 상태의 앱..
-     -->
+
+
+
 
 # 기타
 
@@ -410,7 +486,3 @@ Here are some ideas to get you started:
     여러 가지 내용들을 복붙으로 옮겨 붙일 때 복사 붙여넣기 알텝이 귀찮아서 복사할 텍스트들을 | 로 구분해서 선택 후 F2를 누르면 프로그램이 배열로 인식하여 F3을 누를 때마다 하나씩 출력해 준다.
     출력 후 엔터가 필요 없는 경우 F12를 눌러 상태를 변경
     F1과 F4로 인덱스를 변경 가능 
-
-
-    
-    
