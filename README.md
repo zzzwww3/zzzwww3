@@ -1,10 +1,10 @@
-|Profile|||
-|---|---|---|
+|Profile||
+|---|---|
 |이름|이선일|
 |직무경력|주식회사 낫에그(안드로이드 개발팀 팀원)<br/>2021.03.15 ~ 2023.07.07(2년 3개월)|
 
-|Skill|||
-|---|---|---|
+|Skill||
+|---|---|
 |Language|Android(중), Java(중), Kotlin(하), python(하), linux(하),C#(하),php(하),html,css,javascript(하)|
 |Platform|Android|
 |System|Window, Max OS X|
