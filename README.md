@@ -431,7 +431,34 @@ CALLA는 필름 교체 형식의 랜덤 필름카메라입니다.
 <details>
 <summary>[0100 - 인스타그램 줄바꿈은 공백]</summary>
 
+GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak0100
 
+작업 기간 : 21.03 (5일)
+
+개발 인원 : 안드로이드(1명)
+
+0100은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
+
+<span>
+<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/JBYApVi_THnxB6m-YhIpIUBdrGzALCjSjzhPSnzmwgSZiAWFrwfYxqmZ8NCZXNGDyg=w2560-h1440-rw">
+<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/n_empEm0zosyG1Bh31wpAGwjQ4jIeV6mzUSmTUFWmb9Ipes_f_rIbeGWDaIBctIB2A=w2560-h1440-rw">
+<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/rcj75yG1Octgb2tb7sDMSFWULPe_g7uWR7BzCRuZbZ-00lV7IiqzfkZ-EnSkQS43isk=w2560-h1440-rw">
+</span>
+
+해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
+-  glide, admob, Billing, RecyclerView, DrawerLayout, LinearLayout, InputMethodManager
+
+해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
+
+- 앱의 모든 화면과 기능 개발
+- 이모티콘 메모장 기능
+- 클립보드 복사 기능
+- Admob 광고 기능
+- Google Play 결제 기능(광고 제거)
+- localization (한글, 영어)
+- InputMethodManager 를 통한 소프트 키보드의 활성 유무에 따른 레이아웃 관리 
+- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
+- release, debug 모드에 각각 proguard 적용
 
 </details>
 
