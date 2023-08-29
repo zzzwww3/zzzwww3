@@ -10,7 +10,11 @@
 |System|Window, Max OS X|
 |Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
 
-# NOTEGG(낫에그) 프로젝트 
+<details>
+<summary>NOTEGG(낫에그) 프로젝트  </summary>
+
+<details>
+<summary>[키재니]</summary>
 
 ## [키재니]
 
@@ -51,6 +55,11 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.isaac.kisani
 - Playstore 배포
 
 
+</details>
+
+
+<details>
+<summary>[매너로디]</summary>
 
 ## [매너로디]
 
@@ -89,6 +98,13 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.eunedu.mannermelo
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
 
+
+</details>
+
+
+<details>
+<summary>[CALLA V]</summary>
+
 ## [CALLA V]
 
 GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.callav
@@ -120,6 +136,14 @@ CALLAV는 다양한 필름과 효과를 사용할 수 있는 빈티지 필름 �
 - 광고제거 인앱결제 기능
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
+
+</details>
+
+
+
+<details>
+<summary>[블루캘린더]</summary>
+
 
 ## [블루캘린더]
 
@@ -159,6 +183,11 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.bluecalen
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
 
+</details>
+
+
+<details>
+<summary>[X-FACE - 사진 보정 탐지기]</summary>
 
 ## [X-FACE - 사진 보정 탐지기]
 
@@ -192,6 +221,11 @@ X-FACE는 얼굴 사진을 얼마나 보정했는지 검사할 수 있는 앱입
 
 
 
+</details>
+
+
+<details>
+<summary>[AO - 슬기로운 캠핑생활]</summary>
 
 ## [AO - 슬기로운 캠핑생활]
 
@@ -233,6 +267,13 @@ AO는 캠핑을 기록할 수 있는 앱입니다.
 - Playstore 배포
 
 
+</details>
+
+
+
+<details>
+<summary>[DAZZL - 눈부신 순간들]</summary>
+
 ## [DAZZL - 눈부신 순간들]
 
 GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.dazzl
@@ -263,6 +304,14 @@ DAZZL은 플래시를 사용하는 랜덤 필터 카메라입니다.
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
 
+
+
+</details>
+
+
+
+<details>
+<summary>[PLOT - 플롯, 나의 이야기]</summary>
 
 ## [PLOT - 플롯, 나의 이야기]
 
@@ -297,7 +346,13 @@ PLOT은 폴라로이드 특유의 감성이 담긴 카메라 어플 입니다.
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
 
+</details>
 
+
+
+
+<details>
+<summary>[MUWEE - 컬처 아카이빙]</summary>
 
 ## [MUWEE - 컬처 아카이빙]
 
@@ -333,6 +388,13 @@ MUWEE 무위는 취향 좋은 라이프스타일을 만나볼 수 있는 영상�
 - release, debug 모드에 각각 proguard 적용
 - Playstore 배포
 
+</details>
+
+
+
+<details>
+<summary>[CALLA - 칼라, 색을 담다 필름카메라]</summary>
+
 ## [CALLA - 칼라, 색을 담다 필름카메라]
 
 GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.calla
@@ -364,42 +426,20 @@ CALLA는 필름 교체 형식의 랜덤 필름카메라입니다.
 - 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
 - release, debug 모드에 각각 proguard 적용
 
+</details>
+
+<details>
+<summary>[0100 - 인스타그램 줄바꿈은 공백]</summary>
 
 
-## [0100 - 인스타그램 줄바꿈은 공백]
 
-GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak0100
+</details>
 
-작업 기간 : 21.03 (5일)
-
-개발 인원 : 안드로이드(1명)
+</details>
 
 
-0100은 인스타그램 자동 줄바꿈과 텍스트 꾸미기 어플입니다.
-
-<span>
-<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/JBYApVi_THnxB6m-YhIpIUBdrGzALCjSjzhPSnzmwgSZiAWFrwfYxqmZ8NCZXNGDyg=w2560-h1440-rw">
-<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/n_empEm0zosyG1Bh31wpAGwjQ4jIeV6mzUSmTUFWmb9Ipes_f_rIbeGWDaIBctIB2A=w2560-h1440-rw">
-<img width="166px" height="296px" src="https://play-lh.googleusercontent.com/rcj75yG1Octgb2tb7sDMSFWULPe_g7uWR7BzCRuZbZ-00lV7IiqzfkZ-EnSkQS43isk=w2560-h1440-rw">
-</span>
-
-해당 프로젝트에서 사용된 주요 기술로는 다음과 같습니다.
--  glide, admob, Billing, RecyclerView, DrawerLayout, LinearLayout, InputMethodManager
-
-해당 프로젝트에서 진행한 주요 업무로는 다음과 같습니다.
-
-- 앱의 모든 화면과 기능 개발
-- 이모티콘 메모장 기능
-- 클립보드 복사 기능
-- Admob 광고 기능
-- Google Play 결제 기능(광고 제거)
-- localization (한글, 영어)
-- InputMethodManager 를 통한 소프트 키보드의 활성 유무에 따른 레이아웃 관리 
-- 사용자 분석을 위해 앱 실행시 slack으로 핸드폰 모델 정보를 수집
-- release, debug 모드에 각각 proguard 적용
-
-
-# 개인 프로젝트
+<details>
+<summary>개인 프로젝트</summary>
 
 ## [오늘 날씨 어때?]
 
@@ -433,9 +473,6 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 - Playstore 앱 등록
 
 
-
-
-
 # 기타
 
 
@@ -467,9 +504,6 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 
    nCloud로 centos7 서버 개설 이후 php, MySql, Python 세팅만 해본 수준. 
 
-
-
-
 <p><h1><a href="https://github.com/zzzwww3/Runcat_Custom_zzzwww3"  >RunCat_for_windows</a></h1></p>
 
    윈도우 CPU 사용량에 따라 움직임이 반영되는 고양이를 볼 수 있는 프로그램 
@@ -484,3 +518,5 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
     여러 가지 내용들을 복붙으로 옮겨 붙일 때 복사 붙여넣기 알텝이 귀찮아서 복사할 텍스트들을 | 로 구분해서 선택 후 F2를 누르면 프로그램이 배열로 인식하여 F3을 누를 때마다 하나씩 출력해 준다.
     출력 후 엔터가 필요 없는 경우 F12를 눌러 상태를 변경
     F1과 F4로 인덱스를 변경 가능 
+
+</details>
