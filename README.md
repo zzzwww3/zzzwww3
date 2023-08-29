@@ -10,8 +10,7 @@
 |System|Window, Max OS X|
 |Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
 
-<details>
-<summary>NOTEGG(낫에그) 프로젝트  </summary>
+## NOTEGG(낫에그) 프로젝트
 
 <details>
 <summary>[키재니]</summary>
@@ -464,11 +463,11 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak010
 
 </details>
 
-</details>
 
+## 개인 프로젝트
 
 <details>
-<summary>개인 프로젝트</summary>
+<summary> [오늘 날씨 어때?] </summary>
 
 ## [오늘 날씨 어때?]
 
@@ -502,17 +501,24 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 - Playstore 앱 등록
 
 
-# 기타
+</details>
 
 
-## <a href="http://zzzwww3.dothome.co.kr/">http://zzzwww3.dothome.co.kr/</a>
+<details>
+<summary> 웹 개발 </summary>
 
 ## 웹 개발
 
 <p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" title="notegg_Logo"/>낫에그 홈페이지</a></p>
 <p><a href="https://www.noteggparan.co.kr/"  ><img src="./noteggparanicon.ico" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
 <p><a href="https://muwee.co.kr/"  ><img src="./muwee.ico" title="muwee_Logo"/>무위 홈페이지</a></p>
+<p><a href="http://zzzwww3.dothome.co.kr/">http://zzzwww3.dothome.co.kr/</a></p>
 
+</details>
+
+
+<details>
+<summary> 게임 개발 </summary>
 
 ## 게임 개발
 
@@ -529,9 +535,22 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
     프로젝트 기여도: 100%
     개발기간 : 3달 
 
- ## 서버 개발 
+</details>
+
+<details>
+<summary>서버 개발</summary>
+
+## 서버 개발 
 
    nCloud로 centos7 서버 개설 이후 php, MySql, Python 세팅만 해본 수준. 
+
+</details>
+
+
+<details>
+<summary>기타</summary>
+
+## 기타
 
 <p><h1><a href="https://github.com/zzzwww3/Runcat_Custom_zzzwww3"  >RunCat_for_windows</a></h1></p>
 
@@ -547,5 +566,7 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
     여러 가지 내용들을 복붙으로 옮겨 붙일 때 복사 붙여넣기 알텝이 귀찮아서 복사할 텍스트들을 | 로 구분해서 선택 후 F2를 누르면 프로그램이 배열로 인식하여 F3을 누를 때마다 하나씩 출력해 준다.
     출력 후 엔터가 필요 없는 경우 F12를 눌러 상태를 변경
     F1과 F4로 인덱스를 변경 가능 
+    
+</details>
 
 </details>
