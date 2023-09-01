@@ -237,6 +237,68 @@ Layout
 
 </layout>
 
+RecyclerView
+//Adapter 선언 후 @BindingAdapter 를 사용하면 xml에서 binding해줄 수 있다.
+
+object MyBindingAdapter {
+    @BindingAdapter("categoryItems")
+    @JvmStatic
+    fun categorySetItem(
+        recyclerView: RecyclerView,
+        categoryList: LiveData<ArrayList<Category>>
+    ) {
+        if (recyclerView.adapter == null) {
+            val adapter = CategoryAdapter()
+            recyclerView.adapter = adapter
+        }
+
+        categoryList?.let {
+            val myAdapter = recyclerView.adapter as CategoryAdapter
+//            Log.d("categorySetItem", it.value.toString())
+            Log.d("categorySetItem", it.value?.size.toString())
+            myAdapter.submitList(it.value)
+            myAdapter.notifyDataSetChanged()
+        }
+    }
+
+    @BindingAdapter("prdItems")
+    @JvmStatic
+    fun prdSetItems(recyclerView: RecyclerView, prdList: LiveData<ArrayList<Products>>) {
+        if (recyclerView.adapter == null) {
+            val adapter = ProductAdapter()
+            recyclerView.adapter = adapter
+        }
+
+        prdList?.let {
+            val myAdapter = recyclerView.adapter as ProductAdapter
+//            Log.d("prdSetItems", it.value.toString())
+            Log.d("prdSetItems", it.value?.size.toString())
+            myAdapter.submitList(it.value)
+            myAdapter.notifyDataSetChanged()
+        }
+    }
+
+
+    @BindingAdapter("myItems")
+    @JvmStatic
+    fun mySetItem(recyclerView: RecyclerView, myList: LiveData<ArrayList<MyLike>>) {
+        if (recyclerView.adapter == null) {
+            val adapter = MyAdapter()
+            recyclerView.adapter = adapter
+        }
+
+        myList?.let {
+            val myAdapter = recyclerView.adapter as MyAdapter
+//            Log.d("mySetItem", it.value.toString())
+            Log.d("mySetItem", it.value?.size.toString())
+            myAdapter.submitList(it.value)
+            myAdapter.notifyDataSetChanged()
+        }
+    }
+
+
+}
+
 
 
 
