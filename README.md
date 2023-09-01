@@ -1,6 +1,6 @@
 # 안드로이드 코드 팁
 
-## 깃허브 토큰 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
+## 깃허브 토큰 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
 
 ## Android Studio
 
