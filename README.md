@@ -4,6 +4,12 @@
 
 ## Android Studio
 
+<details>
+<summary>DI - Dagger2</summary>
+
+## https://kotlinworld.com/111
+
+</details>
 
 <details>
 <summary>ViewBinding, DataBinding</summary>
