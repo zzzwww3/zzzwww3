@@ -5,7 +5,7 @@
 
 |Skill||
 |---|---|
-|Language|Android(중), Java(중), Kotlin(하), python(하), linux(하),C#(하),php(하),html,css,javascript(하)|
+|Language|Android(중), Java(중), Kotlin(중), python(하), linux(하),C#(하),php(하),html,css,javascript(하)|
 |Platform|Android|
 |System|Window, Max OS X|
 |Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
