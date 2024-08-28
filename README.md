@@ -3,11 +3,12 @@
 |이름|이선일|
 |직무경력|(주)커넥트웨이브/다나와 기업부설연구소 2023.08.01 ~ <br/>(주)낫에그(안드로이드 개발팀 팀원) 2021.03.15 ~ 2023.07.07(2년 3개월)|
 
+<!-- |Language|Android(중), Java(중), Kotlin(중), python(하), linux(하), C#(하), php(하), html, css, javascript(하)| -->
 |Skill||
 |---|---|
-|Language|Android(중), Java(중), Kotlin(중), python(하), linux(하),C#(하),php(하),html,css,javascript(하)|
+|Language|Android(중), Java(중), Kotlin(중)|
 |Platform|Android|
-|System|Window, Max OS X|
+|System|Windows|
 |Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
 
 ## NOTEGG(낫에그) 프로젝트
@@ -463,6 +464,15 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak010
 
 </details>
 
+<details>
+<summary> 웹 개발 </summary>
+
+## 웹 개발
+
+<p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" title="notegg_Logo"/>낫에그 홈페이지</a></p>
+<p><a href="https://www.noteggparan.co.kr/"  ><img src="./noteggparanicon.ico" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
+<p><a href="https://muwee.co.kr/"  ><img src="./muwee.ico" title="muwee_Logo"/>무위 홈페이지</a></p>
+</details>
 
 ## 개인 프로젝트
 
@@ -470,6 +480,8 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.notegg.gongbak010
 <summary> [오늘 날씨 어때?] </summary>
 
 ## [오늘 날씨 어때?]
+
+### 현재 개발자 계정 정지로 다운로드 불가합니다. 
 
 GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 
@@ -503,19 +515,13 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 
 </details>
 
-
-<details>
+<!-- <details>
 <summary> 웹 개발 </summary>
 
 ## 웹 개발
 
-<p><a href="http://notegg.co.kr/"  ><img src="./noteggicon.ico" title="notegg_Logo"/>낫에그 홈페이지</a></p>
-<p><a href="https://www.noteggparan.co.kr/"  ><img src="./noteggparanicon.ico" title="noteggparan_Logo"/>낫에그파란 홈페이지</a></p>
-<p><a href="https://muwee.co.kr/"  ><img src="./muwee.ico" title="muwee_Logo"/>무위 홈페이지</a></p>
 <p><a href="http://zzzwww3.dothome.co.kr/">http://zzzwww3.dothome.co.kr/</a></p>
-
-</details>
-
+</details> -->
 
 <details>
 <summary> 게임 개발 </summary>
@@ -537,17 +543,17 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 
 </details>
 
-<details>
+<!-- <details>
 <summary>서버 개발</summary>
 
 ## 서버 개발 
 
    nCloud로 centos7 서버 개설 이후 php, MySql, Python 세팅만 해본 수준. 
 
-</details>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary>기타</summary>
 
 ## 기타
@@ -567,6 +573,6 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
     출력 후 엔터가 필요 없는 경우 F12를 눌러 상태를 변경
     F1과 F4로 인덱스를 변경 가능 
     
-</details>
+</details> -->
 
 </details>
