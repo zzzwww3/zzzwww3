@@ -11,6 +11,22 @@
 |System|Windows|
 |Tool|Android Studio, Git, Putty, FileZilla, DBeaver, Visual Studio Code, Notion, Figma, Discord|
 
+<!-- ## (주)커넥트웨이브/다나와 기업부설연구소
+
+다나와 앱 유지보수
+
+다나와 자동차 앱 리팩토링 
+
+- 개발 언어 Java -> Kotlin
+- DSL : Groovy -> Kotlin
+- 단일 모듈(app) -> 멀티 모듈(app, data, domain)
+- 디자인 패턴 MVC -> MVVM 적용
+- ViewBinding : dataBinding 사용
+- API 호출 : safeApiCall, Retrofit2, Coroutine 활용
+- 이미지 : Glide 사용
+
+PlayStore, OneStore, GalaxyStore 앱 출시 및 관리 -->
+
 ## NOTEGG(낫에그) 프로젝트
 
 <details>
@@ -515,13 +531,13 @@ GooglePlay : https://play.google.com/store/apps/details?id=com.zzzwww3.weather
 
 </details>
 
-<!-- <details>
+<details>
 <summary> 웹 개발 </summary>
 
 ## 웹 개발
 
-<p><a href="http://zzzwww3.dothome.co.kr/">http://zzzwww3.dothome.co.kr/</a></p>
-</details> -->
+<p><a href="http://dltjsdlf90.dothome.co.kr">http://dltjsdlf90.dothome.co.kr</a></p>
+</details>
 
 <details>
 <summary> 게임 개발 </summary>
